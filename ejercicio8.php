@@ -4,9 +4,10 @@
 // Complejidad: BAJA (1 punto)
 
 function calcularPromedio($numeros){
-    //Escribe tu código aquí
-
-}
+  foreach ($variable as $key => $value) {
+    # code...
+  }
+ 
 
 //Tests
 assert(1 == calcularPromedio([1]), "El promedio de [1] es 1");

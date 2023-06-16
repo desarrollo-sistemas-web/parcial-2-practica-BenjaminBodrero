@@ -4,9 +4,11 @@
 // Complejidad: BAJA (1 punto)
 
 function saludar($nombre){
-    //Escribe tu código aquí
-    
+
+   return "¡Hola, $nombre!";
+
 }
+
 
 //Tests
 assert("¡Hola, Juan!" == saludar("Juan"), "Saludo a Juan");

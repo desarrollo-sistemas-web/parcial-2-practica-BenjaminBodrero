@@ -5,7 +5,7 @@
 // Complejidad: BAJA (1 punto)
 
 function obtenerDiaSemana($numero){
-    //Escribe tu código aquí
+    
 }
 
 //Tests
